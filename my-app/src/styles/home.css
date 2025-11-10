@@ -1,0 +1,33 @@
+.home-conteiner{
+    /* mantemos a bootstrap */
+}
+
+.home-title{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 28px;
+    margin-top: 1rem;
+    color: black;
+}
+
+.home-list-item{
+    margin-bottom: 0.5rem;
+}
+
+.home-list{
+    text-decoration: none;
+    color: blue;
+    font-weight: 500;
+}
+
+.home-link{
+    text-decoration: none;
+    color: blue;
+    font-weight: 500;
+}
+
+.home-link:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+
